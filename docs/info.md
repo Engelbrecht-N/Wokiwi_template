@@ -13,8 +13,8 @@ Solws down the clock but isnt really ready yet.
 
 ## How to test
 
-Explain how to use your project
+Toggle the inputs once and as fast as possible.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED display, mouse keyboard
